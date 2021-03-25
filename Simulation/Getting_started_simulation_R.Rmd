@@ -1,6 +1,6 @@
 ---
 title: "Getting Started with Simulation in R"
-author: "Sarah Chadwick"
+author: "March 2021"
 output: html_document
 ---
 
