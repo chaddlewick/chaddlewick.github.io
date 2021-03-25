@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/chaddlewick/chaddlewick.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Test:
-[a relative link](Getting_started_simulation_R.Rmd)
+[a relative link](Simulation/Getting_started_simulation_R.Rmd)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
